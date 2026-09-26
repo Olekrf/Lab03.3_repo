@@ -23,9 +23,8 @@ int main() {
             else
                 if (x > 2)
                     y = (R * (x-4))/2;
-                    
-
 
     cout << "y = " << y << endl;
+    cin.get();
     return 0;
 }
